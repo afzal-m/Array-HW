@@ -1,0 +1,6 @@
+var randomNumbers:Array = [47,100,67,12,97,69]
+for max in randomNumbers {
+    if (max >= 100) {
+        print ("The maximum number is \(max)")
+    }
+}
